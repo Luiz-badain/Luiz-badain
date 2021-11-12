@@ -1,4 +1,4 @@
-## Olá mundo, eu sou o Luiz👾
+## Olá, mundo! Eu sou o Luiz👾
 
 - 📘 Atualmente sou aluno do Instituto PROA 
 - ✍ Estou estudando desenvolvimento web/java
