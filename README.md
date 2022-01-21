@@ -1,8 +1,9 @@
 ## Olá mundo! Eu sou o Luiz👾
 
-- 📘 Atualmente sou aluno do Instituto PROA 
-- ✍ Estou estudando desenvolvimento web/java
+- 📘 Atualmente sou aluno da Fatec
+- ✍ Estou estudando Desenvolvimento de software multiplataforma
 - 🥳Tenho 18 anos
+- 💙Ex- alundo do Instituto Proa
 - 😀 Gosto de aprender coisas novas
 - 🎬Meus hobbies favoritos são assistir filmes e ler livros📙
 
