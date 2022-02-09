@@ -2,7 +2,7 @@
 
 - 📕Atualmente sou aluno da Fatec
 - ✍ Estou estudando Desenvolvimento de software multiplataforma
-- 🥳Tenho 18 anos
+- 🎉Tenho 18 anos
 - 📘Ex-aluno do Instituto Proa
 - 😀 Gosto de aprender coisas novas
 - 🎬Meus hobbies favoritos são assistir filmes e ler livros📙
