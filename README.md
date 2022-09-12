@@ -1,12 +1,9 @@
 ## Olá mundo! Eu sou o Luiz👾
 
-- 📕Atualmente sou aluno da Fatec
-- ✍ Estou estudando Desenvolvimento de software multiplataforma
-- 🎉Tenho 18 anos
+- 📕 Aluno da Fatec
+- ✍ Estudante de Desenvolvimento de software multiplataforma
+- 🎉19y
 - 📘Ex-aluno do Instituto Proa
-- 😀 Gosto de aprender coisas novas
-- 🎬Meus hobbies favoritos são assistir filmes e ler livros📙
-
 
 <div>
   <a href="https://github.com/luiz4513">
