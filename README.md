@@ -5,11 +5,8 @@
 - 🎉19y
 - 📘Ex-aluno do Instituto Proa
 
-<div>
-  <a href="https://github.com/luiz4513">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luiz4513&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz4513&layout=compact&langs_count=7&theme=dark"/>
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiz4513&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiz4513&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luiz4513&theme=nord_dark) |
+| :-: | :-: | :-: |
  
   
 <div style="display: inline_block"><br>
