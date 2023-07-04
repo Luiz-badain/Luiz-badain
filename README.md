@@ -6,9 +6,6 @@
 - ✍ Estudante de Desenvolvimento de software multiplataforma
 - 🎉19y
 - 📘Ex-aluno do Instituto Proa
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiz4513&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiz4513&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luiz4513&theme=nord_dark) |
-| :-: | :-: | :-: |
  
   
 <div style="display: inline_block"><br>
