@@ -19,10 +19,16 @@
 </div>
  <br>
   
-  ## Redes Sociais
-# 📊Estatísticas do GitHub:
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiz-badain&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiz-badain&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luiz-badain&theme=nord_dark) |
-| :-: | :-: | :-: |
+ ## ⚡ Github Status
+
+  <br/>
+  <div align = "center">
+   <a href="https://github.com/luiz-badain/github-readme-stats"><img alt="Mais usado" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-badain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/luiz-badain/github-readme-stats"><img alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=luiz-badain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</div>
+  <br/>
+  
+ 
 
 
 
