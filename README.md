@@ -4,7 +4,7 @@
   
 - 📕 Aluno da Fatec
 - ✍ Estudante de Desenvolvimento de software multiplataforma
-- 🎉21y
+- 🎉20y
 - 📘Ex-aluno do Instituto Proa
  
   
