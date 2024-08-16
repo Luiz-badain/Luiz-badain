@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36d921&width=350&height=50&lines=Olá+mundo+!+Eu+sou+o+Luiz;&#128435;)](https://git.io/typing-svg)
 ---
-[![](https://visitcount.itsvg.in/api?id=Carolina-Silva&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=luiz-badain&icon=0&color=1)](https://visitcount.itsvg.in)
   
 - 📕 Aluno da Fatec
 - ✍ Estudante de Desenvolvimento de software multiplataforma
